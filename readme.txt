@@ -4,6 +4,7 @@ Tags: Microsoft, Dynamics Marketing, simple, works, tracking, code, head, header
 Requires at least: 2.8
 Tested up to: 3.5
 Stable tag: 1.0.0
+License: GPLv2 or later
 
 Very simple plugin for inserting your Microsoft Dynamics Marketing tracking code on every page.
 
@@ -32,7 +33,7 @@ I'm trying to keep this as simple as possible.
 3. Source of the tracking code inserted just before &lt;/body&gt;.
 
 == Changelog == 
-= 0.0.1 =
+= 1.0.0 =
 * First version
 
 == Support ==
