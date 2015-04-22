@@ -2,7 +2,7 @@
 Contributors: Hans Van de Velde
 Tags: Microsoft, Dynamics Marketing, simple, works, tracking, code, head, header, insert, MDM, javascript, Marketing Pilot, MarketingPilot
 Requires at least: 2.8
-Tested up to: 3.5
+Tested up to: 4.1.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 
